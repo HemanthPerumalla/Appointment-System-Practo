@@ -1,4 +1,3 @@
-# Appointment-System-Practo
 
 ## MySQL Appointment System
 
