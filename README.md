@@ -50,4 +50,4 @@ The following queries are provided and explained in the project:
 
 ### ER Diagram
 
-An ER diagram is provided to visualize the database schema and relationships between the tables. The diagram is available in a PDF file.
+An ER diagram is provided to visualize the database schema and relationships between the tables. 
